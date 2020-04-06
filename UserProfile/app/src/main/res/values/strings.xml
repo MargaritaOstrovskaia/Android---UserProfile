@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserProfile</string>
+    <string name="photo_image">photo image</string>
+    <string name="name">Margarita</string>
+    <string name="birthday">04/30/1988</string>
+    <string name="country">Russia</string>
+</resources>
