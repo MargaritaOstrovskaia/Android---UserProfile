@@ -1,3 +1,4 @@
+# User Profile
 Project designed from practice sets from Udacity Android Developers course "**Android Basics by Google Nanodegree Program**".
 
 [How to make an ImageView with rounded corners? Look here.](https://github.com/MargaritaOstrovskaia/AndroidBasics---UserProfile/wiki)
